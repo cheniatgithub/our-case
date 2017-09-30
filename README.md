@@ -1,5 +1,13 @@
 # our-case update list
 
+--20170930<br>
+case name：豐檍花蓮包車旅遊<br>
+update item：upload video to youtube and iframe to index<br>
+upload video link：<br>
+https://www.youtube.com/watch?v=c5Epp2X5m9U<br>
+update page：<br>
+http://0981644795.com/index.php<br>
+<br>
 --20170928<br>
 case name：浩客家族<br>
 更新項目：<br>
