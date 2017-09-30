@@ -1,6 +1,11 @@
 # our-case update list
 
 --20170930<br>
+case name：時尚86會館<br>
+更新項目：價格變動<br>
+update page：<br>
+http://86bnb.com/index.php<br>
+<br>
 case name：豐檍花蓮包車旅遊<br>
 update item：upload video to youtube and iframe to index<br>
 upload video link：<br>
