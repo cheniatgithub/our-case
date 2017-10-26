@@ -1,5 +1,11 @@
 # our-case update list
 
+--20171026<br>
+case name：浩客家族<br>
+更新項目：<br>
+溪流獨木舟文字修改：http://kayaking-tw.com/stream.php<br>
+古道探險文字修改、版面微調：http://kayaking-tw.com/exp.php<br>
+<br>
 --20170930<br>
 case name：時尚86會館<br>
 更新項目：價格變動<br>
