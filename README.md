@@ -1,5 +1,11 @@
 # our-case update list
 
+--20171027<br>
+case name：典藏花都<br>
+更新項目：新增頁面、刪除頁面及相關程式<br>
+update page：<br>
+http://hualienflora.com/article.php<br>
+<br>
 --20171026<br>
 case name：浩客家族<br>
 更新項目：<br>
