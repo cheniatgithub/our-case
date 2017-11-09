@@ -1,5 +1,10 @@
 # our-case update list
 
+--20171109<br>
+case name：浩客家族<br>
+校正項目：<br>
+獨木舟保險文字校正<br>
+<br>
 --20171027<br>
 case name：典藏花都<br>
 更新項目：新增頁面、刪除頁面及相關程式<br>
