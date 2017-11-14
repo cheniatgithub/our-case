@@ -5,6 +5,15 @@ case name：台北手機配件－雷紋科技官方網站SHOWHAN：手機殼及�
 domain：http://showhan.tw/<br>
 new case！<br>
 <br>
+--20171114<br>
+case name：彩虹時尚會館<br>
+更新項目：新增頁面、修改頁面<br>
+add static page：<br>
+旅遊資訊：http://778899rainbow.com/travel.php<br>
+鄰近景點：http://778899rainbow.com/attrac.php<br>
+update page：<br>
+http://778899rainbow.com/index.php<br>
+<br>
 --20171109<br>
 case name：浩客家族<br>
 校正項目：<br>
