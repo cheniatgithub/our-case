@@ -1,5 +1,10 @@
 # our-case update list
 
+--20171120<br>
+case name：台北手機配件－雷紋科技官方網站SHOWHAN：手機殼及相關配件專賣<br>
+domain：http://showhan.tw/<br>
+new case！<br>
+<br>
 --20171109<br>
 case name：浩客家族<br>
 校正項目：<br>
