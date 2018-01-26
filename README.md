@@ -1,13 +1,13 @@
 # our-case update list
 
 --20180131<br>
-case name：花蓮有機米～花蓮縣富里鄉有機米產銷班第二班官方網站<br>
-domain：http://organic-rice.tw/<br>
+case name：花蓮海蒂的旅行箱民宿官方網站－花蓮市區東大門民宿推薦<br>
+domain：<br>
 new case！<br>
 <br>
 --20180131<br>
-case name：花蓮海蒂的旅行箱民宿官方網站－花蓮市區東大門民宿推薦<br>
-domain：<br>
+case name：花蓮有機米～花蓮縣富里鄉有機米產銷班第二班官方網站<br>
+domain：http://organic-rice.tw/<br>
 new case！<br>
 <br>
 --20180131<br>
