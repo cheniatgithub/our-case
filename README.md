@@ -1,5 +1,40 @@
 # our-case update list
 
+--20180131<br>
+case name：花蓮有機米～花蓮縣富里鄉有機米產銷班第二班官方網站<br>
+domain：http://organic-rice.tw/<br>
+new case！<br>
+<br>
+--20180131<br>
+case name：花蓮海蒂的旅行箱民宿官方網站－花蓮市區東大門民宿推薦<br>
+domain：<br>
+new case！<br>
+<br>
+--20180131<br>
+case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
+domain：http://0905588836.com/<br>
+new case！<br>
+<br>
+--20180131<br>
+case name：花蓮伴手禮名店－綿花甜官方網站～陪您一起成長的好味道～<br>
+domain：http://038359108.com/<br>
+case version 2.0！<br>
+<br>
+--20180131<br>
+case name：八好緣圓民宿官方網站：花蓮東大門夜景民宿推薦<br>
+domain：http://lucky-eights.com/<br>
+new case！<br>
+<br>
+--20180101<br>
+case name：冠軍金獎鳳梨酥！花蓮鳳梨灣官方網站－最佳人氣精品伴手禮<br>
+domain：http://funny111.com.tw/<br>
+case version 2.0！<br>
+<br>
+--20180101<br>
+case name：花蓮瑞穗民宿－境籟迴嵐民宿官方網站：近瑞穗牧場與富興社區！<br>
+domain：http://comein-bnb.com/<br>
+new case！<br>
+<br>
 --20171213<br>
 case name：花蓮包車旅遊－台灣全省花蓮深度之旅優質包車團隊官方網站－花東自由行、一日遊、多日遊、機場接送、花蓮旅遊<br>
 更新項目：新增及修改頁面照片、新嵌入youtube影音3則<br>
