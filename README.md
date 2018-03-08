@@ -6,6 +6,11 @@ case name：浩客家族<br>
 獨木舟、古道交通費修改<br>
 報名表單新增交通費選項：http://kayaking-tw.com/regist.php<br>
 <br>
+--20180227<br>
+case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
+更新項目：<br>
+房價修改<br>
+<br>
 --20180209<br>
 case name：花蓮海蒂的旅行箱民宿官方網站－花蓮東大門夜市民宿推薦<br>
 domain：http://0910550358.com/<br>
