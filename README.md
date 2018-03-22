@@ -1,5 +1,11 @@
 # our-case update list
 
+<br>
+--20180331<br>
+domain：http://leh-cheng.com.tw/<br>
+case name：花蓮樂城大飯店官方網站－鄰近七星潭及花蓮機場<br>
+new case！
+<br>
 --20180308<br>
 case name：浩客家族<br>
 更新項目：<br>
