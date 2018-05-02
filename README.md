@@ -1,6 +1,16 @@
 # our-case update list
 
 <br>
+--20180502<br>
+case name：花蓮獨木舟體驗-浩客家族獨木舟專業團隊官方網站<br>
+更新項目：<br>
+浩客正能量新增教練：http://kayaking-tw.com/power.php<br>
+<br>
+--20180430<br>
+case name：花蓮獨木舟體驗-浩客家族獨木舟專業團隊官方網站<br>
+更新項目：<br>
+海洋獨木舟集合地點修改：http://kayaking-tw.com/ocean.php<br>
+<br>
 --20180413<br>
 domain：http://sunlight-168.com/<br>
 case name：花蓮日光輕航機場官方網站～花蓮輕航機推薦✈<br>
