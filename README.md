@@ -1,6 +1,11 @@
 # our-case update list
 
 <br>
+--20180517<br>
+更新項目：<br>
+case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
+新增wechat qrcode<br>
+<br>
 --20180516<br>
 case name：花蓮日光輕航機場官方網站～花蓮輕航機推薦✈<br>
 更新項目：<br>
