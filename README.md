@@ -1,9 +1,15 @@
 # our-case update list
-
+<br>
+--20180530<br>
+case name：花蓮海蒂的旅行箱民宿官方網站－花蓮東大門夜市民宿推薦<br>
+更新項目：<br>
+房型圖片更換：<br>
+http://0910550358.com/rooms.php?id=1<br>
+http://0910550358.com/rooms.php?id=4<br>
 <br>
 --20180517<br>
-更新項目：<br>
 case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
+更新項目：<br>
 新增wechat qrcode<br>
 <br>
 --20180516<br>
