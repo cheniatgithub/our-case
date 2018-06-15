@@ -1,5 +1,15 @@
 # our-case update list
 <br>
+--20180615<br>
+case name：花蓮海蒂的旅行箱民宿官方網站－花蓮東大門夜市民宿推薦<br>
+更新項目：<br>
+房價更改：<br>
+http://0910550358.com/rooms.php?id=1<br>
+http://0910550358.com/rooms.php?id=2<br>
+http://0910550358.com/rooms.php?id=3<br>
+http://0910550358.com/rooms.php?id=4<br>
+http://0910550358.com/rooms.php?id=5<br>
+<br>
 --20180611<br>
 case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
 更新項目：<br>
