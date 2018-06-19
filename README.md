@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20180619<br>
+case name：花蓮獨木舟體驗-浩客家族獨木舟專業團隊官方網站<br>
+更新項目：<br>
+達人降世LINE修改、E-mail提示文字修改、信件內容加註出發日期：http://kayaking-tw.com/regist.php<br>
+<br>
 --20180615<br>
 case name：花蓮海蒂的旅行箱民宿官方網站－花蓮東大門夜市民宿推薦<br>
 更新項目：<br>
