@@ -3,8 +3,9 @@
 --20180629<br>
 case name：花蓮獨木舟體驗-浩客家族獨木舟專業團隊官方網站<br>
 更新項目：<br>
-海洋獨木舟活動時間修改：http://kayaking-tw.com/ocean.php<br>
-溪流獨木舟活動時間修改：http://kayaking-tw.com/stream.php<br>
+海洋獨木舟活動時間、裝備修改：http://kayaking-tw.com/ocean.php<br>
+溪流獨木舟活動時間、裝備修改：http://kayaking-tw.com/stream.php<br>
+湖泊獨木舟活動裝備修改：http://kayaking-tw.com/lake.php<br>
 <br>
 --20180622<br>
 case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
