@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20180715<br>
+domain：http://tland.com.tw/<br>
+case name：長濱土地買賣－長濱精品土地官方網站<br>
+new case！<br>
+<br>
 --20180709<br>
 case name：花蓮日光輕航機場官方網站～花蓮輕航機推薦✈<br>
 更新項目：<br>
