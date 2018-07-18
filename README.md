@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20180718<br>
+case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
+更新項目：<br>
+修改客房資訊：春節不提供早餐、包棟33人<br>
+<br>
 --20180715<br>
 domain：http://tland.com.tw/<br>
 case name：長濱土地買賣－長濱精品土地官方網站<br>
