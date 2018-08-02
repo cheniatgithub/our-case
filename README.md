@@ -1,8 +1,13 @@
 # our-case update list
 <br>
+--20180801<br>
+case name：長濱土地買賣－長濱精品土地官方網站<br>
+更新項目：https://tland.com.tw/msg.php<br>
+更換頁面圖片<br>
+<br>
 --20180720<br>
-更新項目：<br>
 case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
+更新項目：<br>
 修改客房資訊：包棟價格<br>
 <br>
 --20180718<br>
