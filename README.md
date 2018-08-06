@@ -5,6 +5,11 @@ domain：https://makapahay.com/<br>
 case name：花蓮旅行社推薦∣花蓮包車自由行～馬咔巴嗨旅行社官方網站<br>
 new case！<br>
 <br>
+--20180806<br>
+case name：長濱土地買賣－長濱精品土地官方網站<br>
+更新項目：https://tland.com.tw/msg.php<br>
+新增QR CODE、版面調整<br>
+<br>
 --20180801<br>
 case name：長濱土地買賣－長濱精品土地官方網站<br>
 更新項目：https://tland.com.tw/msg.php<br>
