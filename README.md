@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20180816<br>
+case name：花蓮旅行社推薦∣花蓮包車自由行～馬咔巴嗨旅行社官方網站<br>
+更新項目：<br>
+footer版面配置修改：https://makapahay.com/index.php<br>
+<br>
 --20180814<br>
 case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
 更新項目：<br>
