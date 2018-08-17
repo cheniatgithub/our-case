@@ -3,14 +3,19 @@
 --20180817<br>
 更新項目：<br>
 case name：台灣包車、花蓮包車｜台灣愛飛翔旅遊官方網站～拼車旅遊包車推薦<br>
-修改首頁列表照片（4張）：http://0928249970.com/index.php<br>
-修改拼車圖片、新增圖片（3張）：http://0928249970.com/pool.php<br>
-修改包車圖片、新增圖片（3張：http://0928249970.com/service.php<br>
+修改首頁列表照片（4張）：https://0928249970.com/index.php<br>
+修改拼車圖片、新增圖片（3張）：https://0928249970.com/pool.php<br>
+修改包車圖片、新增圖片（3張：https://0928249970.com/service.php<br>
 <br>
 --20180816<br>
 case name：花蓮旅行社推薦∣花蓮包車自由行～馬咔巴嗨旅行社官方網站<br>
 更新項目：<br>
 footer版面配置修改：https://makapahay.com/index.php<br>
+<br>
+--20180815<br>
+domain：https://0928249970.com/<br>
+case name：台灣包車、花蓮包車｜台灣愛飛翔旅遊官方網站～拼車旅遊包車推薦<br>
+new case！<br>
 <br>
 --20180814<br>
 case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
