@@ -12,6 +12,8 @@ case name：花蓮旅行社推薦∣花蓮包車自由行～馬咔巴嗨旅行�
 首頁行程各4則<br>
 行程詳細資訊頁面標題大小更改為19、可自行設定斷行位置<br>
 我要玩花蓮加「售價」：https://makapahay.com/hualien.php<br>
+我要玩台灣加「售價」：https://makapahay.com/taiwan.php<br>
+行程列表加動畫<br>
 <br>
 --20180827<br>
 case name：花蓮日光輕航機場官方網站～花蓮輕航機推薦✈<br>
