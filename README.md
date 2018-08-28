@@ -1,6 +1,11 @@
 # our-case update list
 <br>
 --20180828<br>
+domain：https://since1938.com/<br>
+case name：花蓮薯第一品牌、台灣精品伴手禮－洄瀾薯道官方網站～花蓮薯推薦首選<br>
+new case version 2.0！<br>
+<br>
+--20180828<br>
 更新項目：<br>
 case name：花蓮旅行社推薦∣花蓮包車自由行～馬咔巴嗨旅行社官方網站<br>
 首頁大圖輪播方式更換、圖片更換<br>
