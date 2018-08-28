@@ -1,5 +1,13 @@
 # our-case update list
 <br>
+--20180828<br>
+更新項目：<br>
+case name：花蓮旅行社推薦∣花蓮包車自由行～馬咔巴嗨旅行社官方網站<br>
+首頁大圖輪播方式更換、圖片更換<br>
+首頁行程各4則<br>
+行程詳細資訊頁面標題大小更改為19、可自行設定斷行位置<br>
+我要玩花蓮加「售價」：https://makapahay.com/hualien.php<br>
+<br>
 --20180827<br>
 case name：花蓮日光輕航機場官方網站～花蓮輕航機推薦✈<br>
 更新項目：<br>
