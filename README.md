@@ -1,6 +1,11 @@
 # our-case update list
 <br>
 --20180914<br>
+case name：花蓮薯第一品牌、台灣精品伴手禮－洄瀾薯道官方網站～花蓮薯推薦首選<br>
+更新項目：<br>
+到貨預設日修改、取消最小到貨日的限制：https://since1938.com/cart.php<br>
+<br>
+--20180914<br>
 case name：台灣包車、花蓮包車｜台灣愛飛翔旅遊官方網站～拼車旅遊包車推薦<br>
 更新項目：<br>
 修改聯絡人資訊、LINE ID、LINE QRCODE及網址、WeChat、新增WeChat QRCODE及ID<br>
