@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20180914<br>
+case name：台灣包車、花蓮包車｜台灣愛飛翔旅遊官方網站～拼車旅遊包車推薦<br>
+更新項目：<br>
+修改聯絡人資訊、LINE ID、LINE QRCODE及網址、WeChat、新增WeChat QRCODE及ID<br>
+<br>
 --20180911<br>
 case name：台灣包車、花蓮包車｜台灣愛飛翔旅遊官方網站～拼車旅遊包車推薦<br>
 更新項目：<br>
