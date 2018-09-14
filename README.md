@@ -3,6 +3,7 @@
 --20180914<br>
 case name：花蓮薯第一品牌、台灣精品伴手禮－洄瀾薯道官方網站～花蓮薯推薦首選<br>
 更新項目：<br>
+美食地圖更換：https://since1938.com/map.php<br>
 到貨預設日修改、取消最小到貨日的限制：https://since1938.com/cart.php<br>
 <br>
 --20180914<br>
