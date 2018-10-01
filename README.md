@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20181001<br>
+case name：花蓮水泥製品－東宏水泥製品股份有限公司官方網站<br>
+更新項目：http://dong-hong.com/<br>
+LINE QRCODE及ID<br>
+<br>
 --20180925<br>
 case name：台灣包車、花蓮包車｜台灣愛飛翔旅遊官方網站～拼車旅遊包車推薦<br>
 更新項目：<br>
