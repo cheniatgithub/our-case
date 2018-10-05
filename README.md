@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20181005<br>
+case name：花蓮親子民宿－花蓮彤話故事親子主題民宿官方網站<br>
+更新項目：<br>
+房內設施「露天戲水池」更改為「室內觀星戲水池」：http://tongsstory.com/rooms.php?id=3<br>
+<br>
 --20181004<br>
 case name：冠軍金獎鳳梨酥！花蓮鳳梨灣官方網站－最佳人氣精品伴手禮<br>
 更新項目：<br>
