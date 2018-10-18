@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20181018<br>
+case name：無糖的健康茶︱和敬清寂官方網站～喝好茶 談鳥事<br>
+更新項目：<br>
+E-mail信箱修改：http://hotea.com.tw/index.php<br>
+<br>
 --20181017<br>
 case name：花蓮薯第一品牌、台灣精品伴手禮－洄瀾薯道官方網站～花蓮薯推薦首選<br>
 更新項目：<br>
