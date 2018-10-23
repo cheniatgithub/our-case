@@ -1,5 +1,16 @@
 # our-case update list
 <br>
+--20181022<br>
+case name：太魯閣民宿-花蓮生日快樂莊園官方網站<br>
+更新項目：<br>
+首頁客房介紹更換、LINE ID及QR CODE、WeChat ID及QR CODE：http://joygarde.com/<br>
+海景六人房房型人數改為6人：http://joygarde.com/guestroom004.php<br>
+<br>
+--20181022<br>
+case name：大益普洱茶專營 花蓮普洱茶專賣－瑞發茶業官方網站－專營大益普洱茶、30年以上在地老茶行，各式好茶<br>
+更新項目：<br>
+價格欄位全部非必填<br>
+<br>
 --20181018<br>
 case name：無糖的健康茶︱和敬清寂官方網站～喝好茶 談鳥事<br>
 更新項目：<br>
