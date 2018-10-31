@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20181031<br>
+domain：https://0953960919.com/<br>
+case name：創意沙其馬－舞吉黃金酥官方網站：花蓮名產美食推薦<br>
+new case！<br>
+<br>
 --20181029<br>
 case name：花蓮民宿典藏花都頂級會館官方網站－近東大門夜市民宿<br>
 更新項目：<br>
