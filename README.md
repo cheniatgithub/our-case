@@ -1,5 +1,11 @@
 # our-case update list
 <br>
+--20181116<br>
+case name：花蓮民宿典藏花都頂級會館官方網站－近東大門夜市民宿<br>
+更新項目：<br>
+各房型的貼心服務及設備刪除採用泡澡浴缸均附玫瑰入浴劑、第四台修改為數位電視、刪除部分照片：http://hualienflora.com/<br>
+訂房須知文字修改
+<br>
 --20181115<br>
 domain：https://accpark.org/<br>
 case name：花蓮生態復育｜亞泥生態園區官方網站－綠美化我們的生活環境<br>
