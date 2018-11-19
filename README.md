@@ -1,6 +1,11 @@
 # our-case update list
 <br>
 --20181119<br>
+case name：花蓮民宿典藏花都頂級會館官方網站－近東大門夜市民宿<br>
+更新項目：<br>
+場地租借更換照片：http://hualienflora.com/article.php<br>
+<br>
+--20181119<br>
 case name：創意沙其馬－舞吉黃金酥官方網站：花蓮名產美食推薦<br>
 更新項目：<br>
 主力產品尺寸規格更改為120公克±10公克：https://0953960919.com/pro.php<br>
