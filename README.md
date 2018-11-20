@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20181120<br>
+domain：https://sainfun.com.tw/<br>
+case name：花蓮建設公司、花蓮新建案｜尚芳建設官方網站歡迎頁－鋼鐵意志 溫暖意念 完美您的夢<br>
+new case！<br>
+<br>
 --20181119<br>
 case name：花蓮民宿典藏花都頂級會館官方網站－近東大門夜市民宿<br>
 更新項目：<br>
