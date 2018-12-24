@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20181225<br>
+domain：https://038561313.com/<br>
+case name：花蓮海鮮推薦×花蓮海產批發－蝦鮮生蟹小姐官方網站～優質新鮮海產批發零售宅配<br>
+new case！<br>
+<br>
 --20181210<br>
 domain：https://038465355.com/<br>
 case name：花蓮房屋工程、花蓮裝潢工程｜森園房屋‧裝潢工程官方網站：花蓮木造泥作工程推薦<br>
