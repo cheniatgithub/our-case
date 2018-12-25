@@ -1,6 +1,11 @@
 # our-case update list
 <br>
 --20181225<br>
+case name：花蓮租車市集平台<br>
+新增項目：<br>
+業者快速註冊信件發送：https://hualien-rent-car.com/login.php<br>
+<br>
+--20181225<br>
 case name：無糖的健康茶︱和敬清寂官方網站～喝好茶 談鳥事<br>
 更新項目：<br>
 FB連結修改：http://hotea.com.tw/index.php<br>
