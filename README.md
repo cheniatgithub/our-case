@@ -1,9 +1,9 @@
 # our-case update list
+<br>
 --20190110<br>
 case name：花蓮海鮮推薦×花蓮海產批發－蝦鮮生蟹小姐官方網站～優質新鮮海產批發零售宅配<br>
 更新項目：<br>
 新增免運專區及相關購物車：https://038561313.com/obj.php?type=9<br>
-<br>
 <br>
 --20181225<br>
 case name：花蓮租車市集平台<br>
