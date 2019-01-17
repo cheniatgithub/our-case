@@ -1,5 +1,11 @@
 # our-case update list
 <br>
+--20190117<br>
+case name：東大門夜市|南濱夜景民宿推薦：花蓮八好緣圓民宿官方網站<br>
+更新項目：<br>
+溫馨家庭房價格修改：http://lucky-eights.com/rooms.php?id=4<br>
+夢幻雙人房價格修改：http://lucky-eights.com/rooms.php?id=1<br>
+<br>
 --20190110<br>
 case name：花蓮海鮮推薦×花蓮海產批發－蝦鮮生蟹小姐官方網站～優質新鮮海產批發零售宅配<br>
 更新項目：<br>
