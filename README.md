@@ -1,5 +1,15 @@
 # our-case update list
 <br>
+--20190131<br>
+domain：https://rhinohostel.com/<br>
+case name：花蓮火車站民宿推薦－犀牛的家民宿官方網站：預約犀牛租車享優惠！<br>
+new case！<br>
+<br>
+--20190131<br>
+domain：https://bee-pro.com/<br>
+case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有限公司官方網站～甜蜜的源味<br>
+new case v2.0！<br>
+<br>
 --20190117<br>
 case name：東大門夜市|南濱夜景民宿推薦：花蓮八好緣圓民宿官方網站<br>
 更新項目：<br>
