@@ -1,6 +1,11 @@
 # our-case update list
 <br>
 --20190131<br>
+domain：http://sbee.com.tw/<br>
+case name：花蓮蜂蜜推薦、花蓮養蜂場｜晴盛蜂蜜官方網站－有機×無毒×天然=健康<br>
+new case v2.0！<br>
+<br>
+--20190131<br>
 domain：https://rhinohostel.com/<br>
 case name：花蓮火車站民宿推薦－犀牛的家民宿官方網站：預約犀牛租車享優惠！<br>
 new case！<br>
