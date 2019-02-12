@@ -1,5 +1,15 @@
 # our-case update list
 <br>
+--20190212<br>
+case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有限公司官方網站～甜蜜的源味<br>
+更新項目：<br>
+更改網站CI：https://bee-pro.com/favicon.ico<br>
+<br>
+--20190211<br>
+case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有限公司官方網站～甜蜜的源味<br>
+更新項目：<br>
+新增FB登入功能：https://bee-pro.com/login.php<br>
+<br>
 --20190131<br>
 domain：http://sbee.com.tw/<br>
 case name：花蓮蜂蜜推薦、花蓮養蜂場｜晴盛蜂蜜官方網站－有機×無毒×天然=健康<br>
