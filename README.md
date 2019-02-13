@@ -17,7 +17,7 @@ case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有�
 <br>
 --20190131<br>
 domain：http://sbee.com.tw/<br>
-case name：花蓮蜂蜜推薦、花蓮養蜂場｜晴盛蜂蜜官方網站－有機×無毒×天然=健康<br>
+case name：花蓮蜂蜜推薦、花蓮養蜂場｜晴盛蜂蜜官方網站－無毒×天然=健康<br>
 new case v2.0！<br>
 <br>
 --20190131<br>
