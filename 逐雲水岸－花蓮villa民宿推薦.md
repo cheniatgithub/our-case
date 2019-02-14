@@ -1,3 +1,7 @@
+--20190214<br>
+更新項目：<br>
+尋訪幽境新增地址：https://followthecloudbnb.com/location.php<br>
+<br>
 --20190212<br>
 更新項目：<br>
 更改footer「香氛」：https://followthecloudbnb.com/inner.php<br>
