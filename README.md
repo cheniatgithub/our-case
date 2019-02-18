@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190218<br>
+case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有限公司官方網站～甜蜜的源味<br>
+更新項目：<br>
+品牌故事中英版：https://bee-pro.com/about.php<br>
+<br>
 --20190214<br>
 case name：花蓮villa民宿推薦－新城逐雲水岸民宿官方網站～近國福花海、有庭園電梯<br>
 更新項目：<br>
