@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190223<br>
+case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有限公司官方網站～甜蜜的源味<br>
+更新項目：<br>
+品牌故事新增媒體報導：https://bee-pro.com/about.php<br>
+<br>
 --20190219<br>
 case name：花蓮蜂蜜推薦、花蓮養蜂場｜晴盛蜂蜜官方網站－無毒×天然=健康<br>
 更新項目：<br>
