@@ -1,6 +1,11 @@
 # our-case update list
 <br>
 --20190225<br>
+case name：花蓮villa民宿推薦－新城逐雲水岸民宿官方網站～近國福花海、有庭園電梯<br>
+更新項目：<br>
+新增線上訂房網址<br>
+<br>
+--20190225<br>
 case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有限公司官方網站～甜蜜的源味<br>
 更新項目：<br>
 「品牌故事Story」改為「品牌故事-台灣最大養蜂場Story-Largest Bee Farm in Taiwan」：https://bee-pro.com/<br>
