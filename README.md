@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190319<br>
+case name：花蓮蜂蜜推薦、花蓮養蜂場｜晴盛蜂蜜官方網站－無毒×天然=健康<br>
+更新項目：<br>
+首頁新增媒體報導及得獎資料：https://sbee.com.tw/index.php<br>
+<br>
 --20190315<br>
 domain：https://claire-image.com/<br>
 case name：花蓮SPA芳療認證～澄瑩身心美學官方網站－為您量身打造的身心美學與造型設計<br>
