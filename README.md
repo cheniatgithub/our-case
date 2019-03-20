@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190320<br>
+case name：花蓮飛行傘滑翔傘－花蓮太平洋磯崎稻草人滑翔飛行傘官方網站<br>
+更新項目：<br>
+首頁啟動飛行文字修改：http://hualienfly.com/<br>
+<br>
 --20190319<br>
 case name：花蓮蜂蜜推薦、花蓮養蜂場｜晴盛蜂蜜官方網站－無毒×天然=健康<br>
 更新項目：<br>
