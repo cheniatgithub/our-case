@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190322<br>
+case name：花蓮機場租車－錞禧小客車租賃有限公司官方網站<br>
+更新項目：<br>
+新增紳登資訊、遊覽車資訊修改：http://chunxi888.com/<br>
+<br>
 --20190320<br>
 case name：花蓮飛行傘滑翔傘－花蓮太平洋磯崎稻草人滑翔飛行傘官方網站<br>
 更新項目：<br>
