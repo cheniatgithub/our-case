@@ -5,6 +5,11 @@ case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有�
 更新項目：<br>
 新增SGS認證頁面：https://bee-pro.com/sgs.php<br>
 <br>
+--20190408<br>
+case name：澎湖旅行社推薦～澎湖520旅行社官方網站<br>
+更新項目：<br>
+取消彈跳視窗：http://ph520travel.com/<br>
+<br>
 --20190322<br>
 case name：花蓮機場租車－錞禧小客車租賃有限公司官方網站<br>
 更新項目：<br>
