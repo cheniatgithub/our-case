@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190409<br>
+case name：花蓮火車站民宿推薦－犀牛的家民宿官方網站：預約犀牛租車享優惠！<br>
+更新項目：<br>
+新增wechat qrcode：https://rhinohostel.com/<br>
+<br>
 --20190408<br>
 case name：花蓮蜂蜜推薦、蜂之鄉線上購物｜蜂潮國際股份有限公司官方網站～甜蜜的源味<br>
 更新項目：<br>
