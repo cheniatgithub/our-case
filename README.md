@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190410<br>
+case name：花蓮獨木舟體驗-浩客家族獨木舟專業團隊官方網站<br>
+更新項目：<br>
+報名頁面修改、更換email：http://kayaking-tw.com/regist.php<br>
+<br>
 --20190409<br>
 case name：花蓮火車站民宿推薦－犀牛的家民宿官方網站：預約犀牛租車享優惠！<br>
 更新項目：<br>
