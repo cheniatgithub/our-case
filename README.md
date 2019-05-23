@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190526<br>
+domain：https://shengdetang.com.tw/<br>
+case name：台北養生中藥材－聖德堂養生藥舖官方網站－以現代化儀器與傳統古法客製化中醫藥<br>
+new case v2.0！<br>
+<br>
 --20190507<br>
 case name：花蓮自由行民宿官方網站：花蓮市區東大門民宿推薦<br>
 更新項目：<br>
