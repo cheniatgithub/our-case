@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190605<br>
+case name：台北室內設計｜空間規劃－奕所設計官方網站：創造美好 成就美好<br>
+更新項目：<br>
+修改關於我們：https://leeyee.com.tw/about.php<br>
+<br>
 --20190604<br>
 case name：花蓮房屋工程、花蓮裝潢工程｜森園房屋‧裝潢工程官方網站：花蓮木造泥作工程推薦<br>
 更新項目：<br>
