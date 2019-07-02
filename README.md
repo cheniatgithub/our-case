@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190702<br>
+case name：台北手機配件－雷紋科技官方網站SHOWHAN：手機殼及相關配件專賣<br>
+更新項目：<br>
+新增友站連結：http://showhan.tw/link.php<br>
+<br>
 --20190605<br>
 case name：台北室內設計｜空間規劃－奕所設計官方網站：創造美好 成就美好<br>
 更新項目：<br>
