@@ -1,5 +1,11 @@
 # our-case update list
 <br>
+--20190806<br>
+domain：https://wanho-marble.com/<br>
+english domain：https://en.wanho-marble.com/<br>
+case name：大理石餐具、廚具∣萬賀企業股份有限公司官方網站－優良品質 台灣製造<br>
+new case！<br>
+<br>
 --20190710<br>
 domain：https://haoweihon.com/<br>
 case name：花蓮包車推薦～後山旅行家包車旅遊官方網站∣花蓮包車自由行旅遊 您的最佳選擇<br>
