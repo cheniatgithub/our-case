@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190831<br>
+domain：https://hualien-ocean.com/<br>
+case name：花蓮海景民宿推薦－吉安心海民宿官方網站～近東大門夜市、貨櫃屋星巴克<br>
+new case！<br>
+<br>
 --20190821<br>
 domain：https://038564539.com/<br>
 case name：花蓮養生食品∣森發行素食批發官方網站－健康尚好 工廠直營<br>
