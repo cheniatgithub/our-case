@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20190910<br>
+domain：https://038530520.com/<br>
+case name：花蓮當鋪公會推薦、流當品拍賣∣金鑽當鋪官方網站－房屋二胎 黃金飾品鑽石典當買賣 汽機車借款免留車<br>
+new case！<br>
+<br>
 --20190831<br>
 domain：https://hualien-ocean.com/<br>
 case name：花蓮海景民宿推薦－吉安心海民宿官方網站～近東大門夜市、貨櫃屋星巴克<br>
