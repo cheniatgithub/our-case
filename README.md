@@ -1,6 +1,16 @@
 # our-case update list
 <br>
 --20190919<br>
+case name：花蓮薯第一品牌、台灣精品伴手禮－洄瀾薯道官方網站～花蓮薯推薦首選<br>
+更新項目：<br>
+美食地圖更換：https://since1938.com/map.php<br>
+<br>
+--20190919<br>
+case name：冠軍金獎鳳梨酥！花蓮鳳梨灣官方網站－最佳人氣精品伴手禮<br>
+更新項目：<br>
+美食地圖更換：https://funny111.com.tw/map.php<br>
+<br>
+--20190919<br>
 case name：花蓮當鋪公會推薦、流當品拍賣∣金鑽當鋪官方網站－房屋二胎 黃金飾品鑽石典當買賣 汽機車借款免留車<br>
 更新項目：<br>
 黃金收購試算頁面算式修改：https://038530520.com/calc.php<br>
