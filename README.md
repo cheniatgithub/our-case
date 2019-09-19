@@ -1,5 +1,11 @@
 # our-case update list
 <br>
+--20180830<br>
+case name：醫療櫃客製化設計－奕創醫療空間整合設計官方網站<br>
+更新項目：<br>
+最新消息更改為作品欣賞、title修改、首頁改為大圖輪播<br>
+聯絡我們新增業務洽詢電話：https://yc-midc.com/contact.php<br>
+<br>
 --20190919<br>
 case name：花蓮生態復育｜亞泥生態園區官方網站－綠美化我們的生活環境<br>
 更新項目：<br>
