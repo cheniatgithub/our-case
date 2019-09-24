@@ -1,5 +1,11 @@
 # our-case update list
 <br>
+--20190924<br>
+domain：https://hongsan.com.tw/<br>
+english domain：https://en.hongsan.com.tw/<br>
+case name：鴻盛建設機械∣專業銷售、維修、零件、租賃∣挖土機買賣<br>
+new case v2.0！<br>
+<br>
 --20190919<br>
 case name：花蓮薯第一品牌、台灣精品伴手禮－洄瀾薯道官方網站～花蓮薯推薦首選<br>
 更新項目：<br>
