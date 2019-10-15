@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20191010<br>
+domain：https://minefor988.com/<br>
+case name：花蓮東大門夜市民宿推薦|花蓮漫活旅宿官方網站-近七星潭及四八高地<br>
+new case！<br>
+<br>
 --20191004<br>
 case name：花蓮鳶尾花民宿官方網站<br>
 更新項目：<br>
