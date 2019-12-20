@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20191215<br>
+domain：https://0911606803.com/<br>
+case name：評鑑優等長照家庭托顧中心～花蓮縣私立平安之家官方網站∣花蓮老人失智失能專業護理日托服務 政府立案社區式服務類長期照顧機構<br>
+new case！<br>
+<br>
 --20191212<br>
 domain：https://shih-jann.com/<br>
 case name：花蓮玉石骨灰罐（罈） 雕件藝品∣石展玉石藝品批發官方網站－頂級青玉經文刻字 工廠直營<br>
