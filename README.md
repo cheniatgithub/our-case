@@ -1,5 +1,10 @@
 # our-case update list
 <br>
+--20200622<br>
+domain：https://omniscientsun.com/<br>
+case name：花蓮法律諮詢、專業律師推薦|元日國際法律事務所官方網站–真心關懷 全力以赴 客戶至上 優質服務<br>
+new case！<br>
+<br>
 --20200506<br>
 domain：https://oldhousetw.com.tw/<br>
 case name：花蓮瑞穗餐廳推薦|老家後山菜官方網站–用在地食材創新作出好吃的家鄉菜料理<br>
